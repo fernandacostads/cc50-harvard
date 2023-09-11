@@ -1,5 +1,6 @@
 ## Aula 2 - Arrays
 
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)
 
 ### **Nesta aula 2, aprendemos sobre:** 
 
@@ -677,3 +678,5 @@ Agora que sabemos como trabalhar com strings em nossos programas, bem como códi
 A **criptografia** é a arte de embaralhar ou ocultar informações. Se quisermos enviar uma mensagem a alguém, podemos **criptografar** ou, de alguma forma, embaralhar essa mensagem para que seja difícil para outras pessoas lerem. A mensagem original, ou input para nosso algoritmo, é chamada de _**plaintext**_ (texto simples), e a mensagem criptografada, ou output, é chamada de _**ciphertext**_ (texto cifrado). E o algoritmo que faz o embaralhamento é chamado de **cifra** . Uma cifra geralmente requer outro input além do texto simples. Uma **chave**, como um número, é um outro input que e mantida em segredo.
 
 Por exemplo, se quisermos enviar uma mensagem como I L O V E Y O U, podemos primeiro convertê-la para ASCII: 73 76 79 86 69 89 79 85. Em seguida, podemos criptografá-la com uma chave de apenas **1** e um algoritmo simples, onde basta adicionar a chave a cada valor: 74 77 80 87 70 90 80 86. Então, o texto cifrado depois de converter os valores de volta para ASCII seria **J M P W F Z P V**. Para descriptografar isso, alguém teria que saber que a chave é **1**, e para subtraí-lo de cada personagem!
+
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)

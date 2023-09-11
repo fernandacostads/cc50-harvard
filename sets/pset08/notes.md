@@ -1,5 +1,6 @@
 ## Módulo 8 - HTML, CSS, JavaScript
 
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)
 
 ## Neste módulo 8, aprendemos sobre…
 
@@ -678,3 +679,5 @@ while True:
     requests.put(URL, json={"on": False})  
     time.sleep(1)
 ```
+
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)

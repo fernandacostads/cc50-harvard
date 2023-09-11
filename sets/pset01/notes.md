@@ -1,4 +1,6 @@
-# Aula 1
+# Aula 1 - C
+
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)
 
 ## O que foi visto na aula?
 
@@ -721,3 +723,5 @@ Na semana passada, quando tínhamos três bits e precisávamos contar mais do qu
 O problema Y2K surgiu porque muitos programas armazenavam o ano civil com apenas dois dígitos, como 98 para 1998 e 99 para 1999. Mas quando o ano 2000 se aproximou, os programas tiveram que armazenar apenas 00, levando a confusão entre os anos 1900 e 2000 .
 
 Em 2038, também ficaremos sem bits para rastrear o tempo, já que há muitos anos alguns humanos decidiram usar 32 bits como o número padrão de bits para contar o número de segundos desde 1º de janeiro de 1970. Mas com 32 bits representando apenas números positivos, só podemos contar até cerca de quatro bilhões e, em 2038, atingiremos esse limite, a menos que atualizemos o software em todos os nossos sistemas de computador.
+
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)

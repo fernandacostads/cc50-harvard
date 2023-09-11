@@ -1,5 +1,6 @@
 # Módulo 0: Scratch
 
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)
 
 ## **Bem vindo!**
 
@@ -373,3 +374,6 @@ Podemos até definir um bloco com uma entrada em [meow4](https://scratch.mit.ed
 Vamos dar uma olhada em mais algumas demos, incluindo [Gingerbread tales remix](https://scratch.mit.edu/projects/277536784) e [Oscartime](https://scratch.mit.edu/projects/277537196/), que combinam loops, condições e movimento para criar um jogo interativo. Oscartime foi na verdade feito por David muitos anos atrás, e ele começou adicionando um sprite, então um recurso de cada vez, e assim por diante, até que eles acabassem formando um programa mais complicado.
 
 Um ex-aluno, Andrew, criou o [Raining Men](https://scratch.mit.edu/projects/37412/). Embora Andrew tenha acabado não seguindo a ciência da computação como profissão, as habilidades de resolução de problemas, algoritmos e ideias que aprenderemos no curso são aplicáveis ​​em todos os lugares.
+
+
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)

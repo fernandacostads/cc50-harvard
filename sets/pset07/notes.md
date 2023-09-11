@@ -1,5 +1,6 @@
 ## Módulo 7 : SQL
 
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)
 
 ## Na aula do Módulo 7, aprendemos sobre:
 
@@ -550,3 +551,5 @@ db.execute("COMMIT")
 - O banco de dados garantirá que todas as consultas intermediárias sejam executadas juntas.
 
 Outro exemplo pode ser de dois colegas de quarto e uma geladeira compartilhada em seu dormitório. O primeiro colega de quarto chega em casa e vê que não há leite na geladeira. Assim, o primeiro colega de quarto sai na loja para comprar leite e, enquanto eles estão na loja, o segundo colega de quarto chega em casa, vê que não há leite e sai para outra loja para pegar leite também. Mais tarde, haverá duas jarras de leite na geladeira.
+
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)

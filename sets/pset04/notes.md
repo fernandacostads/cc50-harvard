@@ -1,5 +1,7 @@
 ## Aula 4 - Memória
 
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)
+
 ## Neste módulo, vimos os seguintes tópicos:
 
 - Hexadecimal
@@ -678,3 +680,5 @@ int main(int argc, char *argv[])
 - Em seguida, lemos um byte do arquivo de **origem(source)** em um buffer e gravamos esse byte no arquivo de **destino(destination)**. Podemos usar um **while** loop para chamar **fread** , que vai parar uma vez que não há mais bytes para ler.
 
 Podemos usar essas habilidades para ler e gravar arquivos, recuperando imagens de um arquivo e adicionando filtros às imagens, alterando os bytes nelas, no conjunto de problemas desta semana!
+
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)

@@ -1,5 +1,7 @@
 ## Módulo 10 - Ética
 
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)
+
 ## **O Fim**
 
 O CS50 agradece ao [American Repertory Theatre](https://americanrepertorytheater.org/) por sediar as palestras neste semestre, fornecendo adereços, iluminação e sons incríveis para o palco. A equipe do CS50 também tem feito tudo o que é possível fora do palco, incluindo os professores e assistentes do curso. E até mesmo David comete erros e pode não ter certeza sobre as respostas para algumas perguntas, então saiba que o **aprendizado continuará muito além deste curso**.
@@ -132,3 +134,5 @@ Apresentamos um programa de perguntas e respostas com o público, com as seguint
     - ambos mencionados acima
 - **Qual é o seu nível de conforto agora?**
     - Estou entre os mais confortáveis
+
+    [Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)

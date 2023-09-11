@@ -1,5 +1,6 @@
 ## Módulo 6 - Python
 
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)
 
 ## Nesta aula:
 
@@ -637,3 +638,5 @@ elif "goodbye" em palavras:
 else:  
    print("Hm?")
 ```
+
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)

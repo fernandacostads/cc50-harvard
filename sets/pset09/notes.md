@@ -1,5 +1,6 @@
 ## Módulo 9 Flask
 
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)
 
 ## **Diga olá para o Módulo 9!**
 
@@ -712,3 +713,5 @@ Então, nosso modelo index.html pode converter essa lista em elementos no DOM:
 ![](https://cs50.harvard.edu/x/2021/notes/9/ajax.png)
 
 - Como a solicitação de rede pode ser lenta, a função anônima que passamos para **$.get** é uma função de **retorno de chamada**, que só é chamada depois de obtermos uma resposta do servidor. Nesse ínterim, o navegador pode executar outro código JavaScript.
+
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)

@@ -1,5 +1,6 @@
 ## Módulo 5 - Estrutura de Dados
 
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)
 
 ## **Nesta foi abordado:** 
 
@@ -410,3 +411,5 @@ Uma estrutura de dados “oposta” seria um **stack (ou pilha)**, onde os iten
 Outro exemplo de estrutura de dados abstrata é um **dicionário** , onde podemos mapear chaves para valores, como palavras para suas definições. Podemos implementar um com uma tabela hash ou um array, levando em consideração a relação entre tempo e espaço.
 
 Dê uma olhada em [“Jack Learns the Facts About Queues and Stacks”](https://ead.napratica.org.br/enrollments/8898593/courses/84414/course_contents/%E2%80%9Dhttps://www.youtube.com/watch?v=ItAG3s6KIEI%E2%80%9D) (em inglês), uma animação sobre essas estruturas de dados.
+
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)

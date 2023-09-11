@@ -1,5 +1,6 @@
 ## Aula 3 - Algoritmos
 
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)
 
 ## Nesta aula, vimos sobre...
 
@@ -564,3 +565,5 @@ Finalmente, há outra notação, Θ , Theta, que usamos para descrever os temp
 - Θ(1)
 
 Vemos uma [visualização final](https://www.youtube.com/watch?v=ZZuD6iUe3Pc) dos algoritmos de classificação com um número maior de inputs, em execução ao mesmo tempo.
+
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)
