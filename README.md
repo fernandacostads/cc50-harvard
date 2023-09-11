@@ -2,9 +2,9 @@
 
 <p align="center">
   <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">
-    <img src="https://pll.harvard.edu/themes/custom/twel_scholar/logo.svg" width="40%" height="300px">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwLWv8hDsE5cocaHhS6fsS7gFBImjlMgpgw&usqp=CAU" width="40%" height="40%"><br><br>
     <a href="http://www.estudar.org.br/">
-    <img src="https://static-cdn.myedools.com/org-6988%2Fschool-7227%2F725c663bb51e113874e2fc2170bc66dd%2FEstudar+Na+Pr%C3%A1tica.png" width="40%" height="100px">
+    <img src="https://static-cdn.myedools.com/org-6988%2Fschool-7227%2F725c663bb51e113874e2fc2170bc66dd%2FEstudar+Na+Pr%C3%A1tica.png" width="40%" height="40%">
   </a>
 </p>
 &nbsp;
@@ -87,7 +87,7 @@ Conteúdo:
 - Pseudocodigo
 - Scratch
 
-[Aqui](https://github.com/fernandacostads/cc50-harvard/sets/tree/main/pset0) você encontra as anotações dessa aula.
+[Aqui](https://github.com/fernandacostads/cc50-harvard/blob/main/sets/pset0/notes.md) você encontra as anotações dessa aula.
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
@@ -117,7 +117,7 @@ Esse módulo é conhecido por ser um dos pontos mais desafiadores do curso, mas 
 
 Eu recomendo o livro *C. A Linguagem de Programação Padrão ANSI*, foi o que usei enquanto aprendia na faculdade. Também gosto do canal no youtube *Linguagem C descomplicada*
 
-[Aqui](https://github.com/fernandacostads/cc50-harvard/sets/tree/main/pset01) você encontra as anotações dessa aula, exercícios e laboratório.
+[Aqui](https://github.com/fernandacostads/cc50-harvard/blob/main/sets/pset01/notes.md) você encontra as anotações dessa aula, exercícios e laboratório.
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
@@ -138,7 +138,7 @@ Conteúdo:
 
 Este módulo é essencial, pois os arrays são uma estrutura de dados fundamental. Aqui pode-se aprender como declarar, manipular e trabalhar com arrays de maneira eficiente, o que é fundamental para resolver problemas e criar programas C eficazes. Além disso, esse conhecimento sobre arrays é útil em muitos outros contextos de programação, não apenas em C.
 
-[Aqui](https://github.com/fernandacostads/cc50-harvard/sets/tree/main/pset02) você encontra as anotações dessa aula, exercícios e laboratório.
+[Aqui](https://github.com/fernandacostads/cc50-harvard/blob/main/sets/pset02/notes.md) você encontra as anotações dessa aula, exercícios e laboratório.
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
@@ -162,7 +162,7 @@ Conteúdo:
 
 Estudando algoritmos conseguimos adquirir habilidades avançadas de resolução de problemas e nos tornar mais proficientes em compreender a complexidade dos algoritmos e escolher as melhores abordagens para problemas específicos.
 
-[Aqui](https://github.com/fernandacostads/cc50-harvard/sets/tree/main/pset03) você encontra as anotações dessa aula, exercícios e laboratório.
+[Aqui](https://github.com/fernandacostads/cc50-harvard/blob/main/sets/pset03/notes.md) você encontra as anotações dessa aula, exercícios e laboratório.
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
@@ -186,7 +186,7 @@ Conteúdo:
 - Arquivos
 - Gráficos
 
-[Aqui](https://github.com/fernandacostads/cc50-harvard/sets/tree/main/pset04) você encontra as anotações dessa aula, exercícios e laboratório.
+[Aqui](https://github.com/fernandacostads/cc50-harvard/blob/main/sets/pset04/notes.md) você encontra as anotações dessa aula, exercícios e laboratório.
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
@@ -206,7 +206,7 @@ Conteúdo:
 
 Esse é um dos meus assuntos preferidos na computação então foi muito gratificante estudar e fazer os exercício desse módulo.
 
-[Aqui](https://github.com/fernandacostads/cc50-harvard/sets/tree/main/pset05) você encontra as anotações dessa aula, exercícios e laboratório.
+[Aqui](https://github.com/fernandacostads/cc50-harvard/blob/main/sets/pset05/notes.md) você encontra as anotações dessa aula, exercícios e laboratório.
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
@@ -229,7 +229,7 @@ Conteúdo:
 - Arquivos
 - Mais bibliotecas
 
-[Aqui](https://github.com/fernandacostads/cc50-harvard/sets/tree/main/pset06) você encontra as anotações dessa aula, exercícios e laboratório.
+[Aqui](https://github.com/fernandacostads/cc50-harvard/blob/main/sets/pset06/notes.md) você encontra as anotações dessa aula, exercícios e laboratório.
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
@@ -251,7 +251,7 @@ Conteúdo:
 
 [SQL](https://www.w3schools.com/sql/) é valioso para qualquer pessoa interessada em desenvolvimento de software, pois o conhecimento de bancos de dados relacionais e SQL é fundamental para a maioria das aplicações de software. Foi extremamente divertido fazer os exercícios deste módulo. Sem dúvidas é akgo que recomendo a todos tentar.
 
-[Aqui](https://github.com/fernandacostads/cc50-harvard/sets/tree/main/pset07) você encontra as anotações dessa aula, exercícios e laboratório.
+[Aqui](https://github.com/fernandacostads/cc50-harvard/blob/main/sets/pset07/notes.md) você encontra as anotações dessa aula, exercícios e laboratório.
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
@@ -267,7 +267,7 @@ Conteúdo:
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/)
 
-[Aqui](https://github.com/fernandacostads/cc50-harvard/sets/tree/main/pset08) você encontra as anotações dessa aula, exercícios e laboratório.
+[Aqui](https://github.com/fernandacostads/cc50-harvard/blob/main/sets/pset08/notes.md) você encontra as anotações dessa aula, exercícios e laboratório.
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
@@ -289,7 +289,7 @@ Conteúdo:
 
 Aqui você aprende a criar aplicativos web dinâmicos usando Flask, uma habilidade valiosa para desenvolvedores web que desejam criar aplicativos web backend python.
 
-[Aqui](https://github.com/fernandacostads/cc50-harvard/sets/tree/main/pset09) você encontra as anotações dessa aula, exercícios e laboratório.
+[Aqui](https://github.com/fernandacostads/cc50-harvard/blob/main/sets/pset09/notes.md) você encontra as anotações dessa aula, exercícios e laboratório.
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
@@ -306,7 +306,7 @@ Conteúdo:
 
 Este módulo de ética é uma parte importante do CS50, pois ajuda a nos preparar para enfrentar dilemas éticos que podem surgir em nossas carreiras na ciência da computação e na tecnologia. Além disso, enfatiza a importância de considerações éticas e morais ao tomar decisões.
 
-[Aqui](https://github.com/fernandacostads/cc50-harvard/sets/tree/main/pset10) você encontra as anotações dessa aula, exercícios e laboratório.
+[Aqui](https://github.com/fernandacostads/cc50-harvard/blob/main/sets/pset10/notes.md) você encontra as anotações dessa aula, exercícios e laboratório.
 
 <p align="right">(<a href="#readme-top">Voltar ao topo</a>)</p>
 
