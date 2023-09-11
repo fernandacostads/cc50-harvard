@@ -1,6 +1,6 @@
 # Módulo 0: Scratch
 
-[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard#m%C3%B3dulos)
 
 ## **Bem vindo!**
 
@@ -376,4 +376,4 @@ Vamos dar uma olhada em mais algumas demos, incluindo [Gingerbread tales remix]
 Um ex-aluno, Andrew, criou o [Raining Men](https://scratch.mit.edu/projects/37412/). Embora Andrew tenha acabado não seguindo a ciência da computação como profissão, as habilidades de resolução de problemas, algoritmos e ideias que aprenderemos no curso são aplicáveis ​​em todos os lugares.
 
 
-[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulos)
+[Ver outros módulos](https://github.com/fernandacostads/cc50-harvard#m%C3%B3dulos)

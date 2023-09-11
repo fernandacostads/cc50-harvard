@@ -16,18 +16,18 @@ Repositório dedicado para documentar minha experiência durante o curso de Ciê
 ## Módulos
 
 - Introdução
-- Módulo 0: [Scratch](https://github.com/fernandacostads/cc50-harvard/blob/main/pset0/notes.md)
-- Módulo 1: [C](https://github.com/fernandacostads/cc50-harvard/blob/main/pset01/notes.md#aula-1)
-- Módulo 2: [Arrays](https://github.com/fernandacostads/cc50-harvard/blob/main/pset02/notes.md#aula-2)
-- Módulo 3: [Algoritmos](https://github.com/fernandacostads/cc50-harvard/blob/main/pset03/notes.md#aula-3)
-- Módulo 4: [Memória](https://github.com/fernandacostads/cc50-harvard/blob/main/pset04/notes.md#aula-4)
-- Módulo 5: [Estrutura de Dados](https://github.com/fernandacostads/cc50-harvard/blob/main/pset05/notes.md#aula-5)
-- Módulo 6: [Python](https://github.com/fernandacostads/cc50-harvard/blob/main/pset06/notes.md#aula-6)
-- Módulo 7: [SQL](https://github.com/fernandacostads/cc50-harvard/blob/main/pset07/notes.md#aula-7)
-- Módulo 8: [HTML, CSS, JavaScript](https://github.com/fernandacostads/cc50-harvard/blob/main/pset08/notes.md#aula-8)
-- Módulo 9: [Flask](https://github.com/fernandacostads/cc50-harvard/blob/main/pset09/notes.md#aula-9)
-- Módulo 10: [Ética](https://github.com/fernandacostads/cc50-harvard/blob/main/pset10/notes.md#aula-10)
-- Encerramento
+- Módulo 0: [Scratch](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulo-0-scratch-)
+- Módulo 1: [C](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulo-1-c-)
+- Módulo 2: [Arrays](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulo-2-arrays-)
+- Módulo 3: [Algoritmos](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulo-3-algoritmos-)
+- Módulo 4: [Memória](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulo-4-mem%C3%B3ria-)
+- Módulo 5: [Estrutura de Dados](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulo-5-estrutura-de-dados-)
+- Módulo 6: [Python](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulo-6-python-)
+- Módulo 7: [SQL](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulo-7-sql-)
+- Módulo 8: [HTML, CSS, JavaScript](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulo-8-html-css-javascript-)
+- Módulo 9: [Flask](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulo-9-flask-)
+- Módulo 10: [Ética](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#m%C3%B3dulo-10-%C3%A9tica-)
+- [Encerramento](https://github.com/fernandacostads/cc50-harvard/blob/main/README.md#encerramento-)
 
 ## Introdução ✨
 
