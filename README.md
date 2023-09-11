@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://pll.harvard.edu/course/cs50-introduction-computer-science">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwLWv8hDsE5cocaHhS6fsS7gFBImjlMgpgw&usqp=CAU" width="40%" height="40%"><br><br>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMwLWv8hDsE5cocaHhS6fsS7gFBImjlMgpgw&usqp=CAU" width="40%" height="40%">
     <a href="http://www.estudar.org.br/">
     <img src="https://static-cdn.myedools.com/org-6988%2Fschool-7227%2F725c663bb51e113874e2fc2170bc66dd%2FEstudar+Na+Pr%C3%A1tica.png" width="40%" height="40%">
   </a>
