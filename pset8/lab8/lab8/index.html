@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+    <link href="styles.css" rel="stylesheet">
+    <title>Trivia!</title>
+
+    <script>
+        function checkMultipleChoiceAnswer(button) {
+            const correctButton = document.querySelector('.correct-answer');
+            if (button === correctButton) {
+                button.style.backgroundColor = 'green';
+                document.getElementById('multiple-choice-result').innerText = 'Correto!';
+            } else {
+                button.style.backgroundColor = 'red';
+                document.getElementById('multiple-choice-result').innerText = 'Incorreto';
+            }
+        }
+
+        function checkFreeResponseAnswer() {
+            const userAnswer = document.getElementById('free-response-answer').value;
+            if (userAnswer.toLowerCase() === 'resposta correta') {
+                document.getElementById('free-response-answer').style.backgroundColor = 'green';
+                document.getElementById('free-response-result').innerText = 'Correto!';
+            } else {
+                document.getElementById('free-response-answer').style.backgroundColor = 'red';
+                document.getElementById('free-response-result').innerText = 'Incorreto';
+            }
+        }
+    </script>
+</head>
+<body>
+
+    <div class="jumbotron">
+        <h1>Trivia!</h1>
+    </div>
+
+    <div class="container">
+
+        <div class="section">
+            <h2>Part 1: Multiple Choice </h2>
+            <hr>
+            <h3>Pergunta de múltipla escolha:</h3>
+            <button class="btn btn-primary" onclick="checkMultipleChoiceAnswer(this)">Opção 1</button>
+            <button class="btn btn-primary correct-answer" onclick="checkMultipleChoiceAnswer(this)">Resposta Correta</button>
+            <button class="btn btn-primary" onclick="checkMultipleChoiceAnswer(this)">Opção 3</button>
+            <p id="multiple-choice-result"></p>
+        </div>
+
+        <div class="section">
+            <h2>Part 2: Free Response</h2>
+            <hr>
+            <h3>Pergunta de resposta livre:</h3>
+            <input type="text" id="free-response-answer">
+            <button class="btn btn-primary" correct-answer onclick="checkFreeResponseAnswer()">Verificar Resposta</button>
+            <p id="free-response-result"></p>
+        </div>
+
+    </div>
+
+    <footer class="text-center bg-light py-3">
+        &copy; 2023 Trivia!
+    </footer>
+
+</body>
+</html>
